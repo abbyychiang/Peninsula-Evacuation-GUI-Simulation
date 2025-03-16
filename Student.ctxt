@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=startX\ startY\ isFemale\ gradeLevel
+comment1.target=Student(int,\ int,\ boolean,\ java.lang.String)
+comment2.params=
+comment2.target=java.awt.Color\ determineColor()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=boolean\ isAtField()
+comment5.params=g
+comment5.target=void\ draw(java.awt.Graphics)
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=evacuationPanel
+comment1.params=
+comment1.target=evacuationPanel()
+comment2.params=
+comment2.target=java.lang.String\ getRandomGradeLevel()
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment4.params=
+comment4.target=void\ resetSimulation()
+numComments=5
